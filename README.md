@@ -8,3 +8,6 @@ Faster walking speed is expected to fasten the interal clock leading to percieve
 Participants are asked to make a keypress during the video.
 Key press produces an auditory outcome with a delay.
 The delay is expected to be percieved as different through the different levels of the video speed. As a result, soa is expected to be different depending on the walking speed.
+
+- JS codes are for using on Pavlovia (website for online studies created by PsychoPy) 
+- Matlab code is to use with Psychtoolbox
