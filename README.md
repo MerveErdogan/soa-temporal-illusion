@@ -2,7 +2,9 @@
 
 This study aims to look at the effect of delay that is created by a temporal illusion on the explicit sense of agency.
 
-Videos of a walking stickman with 3 different walking speed (50fps, 63fps, 100fps)/
+Studies found that the more delay occurs between an action and its outcome, the less agency is felt.
+On the other hand, the pulses that are accumulated by internal clock can be changed depending on the rhythmic speed of a biological movement like walking.
+Videos of a walking stickman with 3 different walking speed (50fps, 63fps, 100fps)\
 Faster walking speed is expected to fasten the interal clock leading to percieve the duration longer.
 
 Participants are asked to make a keypress during the video.
